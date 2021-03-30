@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Shilpa.Assignment.JewelleryStore.Tests.Unit": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
