@@ -1,0 +1,36 @@
+{
+                     'DayModel':       [{'Day':1,
+                   'FlightInfoModel':[{
+                     'flight':1,
+                     'source':'YUL',
+                     'destination':'YYZ'},
+                     {
+                     'flight':2,
+                     'source':'YUL',
+                     'destination':'YYC'
+                     },
+                     {
+                     'flight':3,
+                     'source':'YUL',
+                     'destination':'YVR'
+                     }
+                     ]
+                     },
+                     {'Day':2,
+                      'FlightInfoModel':[{
+                                          'flight':4,
+                                          'source':'YUL',
+                                          'destination':'YYZ'},
+                                          {
+                                          'flight':5,
+                                          'source':'YUL',
+                                          'destination':'YYC'
+                                          },
+                                          {
+                                          'flight':6,
+                                          'source':'YUL',
+                                          'destination':'YVR'
+                                          }
+                                          ]
+                                          }]
+                     }
